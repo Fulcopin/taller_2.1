@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd xmlns="http://pmd.sourceforge.net/report/2.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pmd.sourceforge.net/report/2.0.0 http://pmd.sourceforge.net/report_2_0_0.xsd" version="6.38.0" timestamp="2024-10-26T21:53:08.508">
+<file name="C:\Users\fupifigu\Desktop\final\CodeInspection\src\main\java\labcodeinspection\EmailApp.java">
+<violation beginline="14" endline="14" begincolumn="26" endcolumn="84" rule="CommentRequired" ruleset="Documentation" package="labcodeinspection" class="EmailApp" variable="VariableDeclaratorId" externalInfoUrl="https://pmd.github.io/pmd-6.38.0/pmd_rules_java_documentation.html#commentrequired" priority="3">
+Field comments are required
+</violation>
+</file>
+</pmd>

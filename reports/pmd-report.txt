@@ -1,0 +1,2 @@
+src/main/java/labcodeinspection/Email.java:36:	GuardLogStatement:	GuardLogStatement: Logger calls should be surrounded by log level guards.
+src/main/java/labcodeinspection/Email.java:37:	GuardLogStatement:	GuardLogStatement: Logger calls should be surrounded by log level guards.
